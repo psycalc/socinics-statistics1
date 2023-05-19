@@ -4,6 +4,7 @@ import pandas as pd
 celebrities_df = pd.read_csv('celebrities.csv')
 schools_df = pd.read_csv('школи_соціоніки.csv')
 typists_df = pd.read_csv('типувальники.csv')
+methods_df = pd.read_csv('методи_типування.csv')
 
 # Об'єднуємо дані
 df = pd.concat([schools_df, typists_df])
