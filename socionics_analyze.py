@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('types.csv')
+df = pd.read_csv('знаменитості.csv')
 df['is_match'] = df['expert_type'] == df['new_method_type']
 
 match_percentage = df['is_match'].sum() / len(df) * 100
