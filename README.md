@@ -32,22 +32,22 @@ df.to_csv('types.csv', index=False)
 ## Ітерпретація результатів
 
 ```
-expert_scores,new_method_scores
-1,1
-2,2
-3,3
-4,4
-4,4
-2,2
-3,3
-1,1
-2,2
-4,3
-3,3
-1,1
-2,2
-3,3
-4,4
+respondent_id,expert_type,new_method_type
+1,INTJ,INTJ
+2,ENFP,ENFP
+3,ISTP,ISTP
+4,ESFJ,ESFJ
+5,ENTJ,ENTJ
+6,ISFP,ISFP
+7,ESTJ,ESTJ
+8,INFP,INFP
+9,ESFP,ESFP
+10,INTP,INTP
+11,ENTP,ENTP
+12,ISFJ,ISFJ
+13,ESTP,ESTP
+14,INFJ,INFJ
+15,ENFJ,ENFJ
 ```
 
 ## Висновки
