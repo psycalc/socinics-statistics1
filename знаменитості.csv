@@ -1,6 +1,6 @@
-respondent_id,full_name,expert_type,new_method_type
-1,Зеленський Володимир Олександрович,INTJ,INTJ
-2,Порошенко Петро Олексійович,ENFP,ENFP
-3,Ющенко Віктор Андрійович,ISTP,ISTP
-4,Кучма Леонід Данилович,ESFJ,ESFJ
-5,Кравчук Леонід Макарович,ENTJ,ENTJ
+respondent_id,full_name,expert_type,new_method_type,socionics_school,typing_method
+1,Зеленський Володимир Олександрович,INTJ,INTJ,Школа 1,Метод 1
+2,Порошенко Петро Олексійович,ENFP,ENFP,Школа 2,Метод 2
+3,Ющенко Віктор Андрійович,ISTP,ISTP,Школа 3,Метод 3
+4,Кучма Леонід Данилович,ESFJ,ESFJ,Школа 4,Метод 4
+5,Кравчук Леонід Макарович,ENTJ,ENTJ,Школа 5,Метод 5
